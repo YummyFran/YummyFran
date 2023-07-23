@@ -15,10 +15,10 @@ I am a passionate React developer with a keen eye for crafting beautiful and int
 
 Here are some of the React projects I've worked on:
 
-1. [CatLand](https://yummyfran.github.io/catland/) - [Cat Land is a project that displays informations about different cat breeds. This was my first React project that uses React Router and API calls].
-2. [iPlay](http://yummyfran.github.io/iPlay) - [iPlay is my clone version of the mobile application "WePlay". It uses Firebase Authentication and Firestore for user data handling].
-3. [Tic Tac Toe AI](https://yummyfran.github.io/Tic-Tac-Toe---Isometric-UI/) - [This is pure JavaScript game I made years ago. It is just a normal tictactoe game with a 3D feels and an artificial intelligence].
-4. [Oishibot - GPT](https://github.com/YummyFran/oishibot-gtp4-powered-v2) - [A Node.js project that uses OpenAiAPI. It doesn't have much features as GPT does the thing].
+1. [CatLand](https://yummyfran.github.io/catland/) - Cat Land is a project that displays informations about different cat breeds. This was my first React project that uses React Router and API calls.
+2. [iPlay](http://yummyfran.github.io/iPlay) - iPlay is my clone version of the mobile application "WePlay". It uses Firebase Authentication and Firestore for user data handling.
+3. [Tic Tac Toe AI](https://yummyfran.github.io/Tic-Tac-Toe---Isometric-UI/) - This is pure JavaScript game I made years ago. It is just a normal tictactoe game with a 3D feels and an artificial intelligence.
+4. [Oishibot - GPT](https://github.com/YummyFran/oishibot-gtp4-powered-v2) - A Node.js project that uses OpenAiAPI. It doesn't have much features as GPT does the thing.
 
 Feel free to explore my repositories for more React-powered projects!
 
