@@ -22,6 +22,12 @@ Here are my top React projects I've worked on:
 
 Feel free to explore my repositories for more React-powered projects!
 
+## Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyFran&show_icons=true&theme=radical)   
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyFran&layout=compact&theme=radical)
+
 ## Get in Touch
 
 - GitHub: https://github.com/YummyFran
