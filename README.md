@@ -24,9 +24,11 @@ Feel free to explore my repositories for more React-powered projects!
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyFran&show_icons=true&theme=radical)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YummyFran&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyFran&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyFran&show_icons=true&theme=radical) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyFran&layout=pie&theme=radical&langs_count=8)
 
 ## Get in Touch
 
