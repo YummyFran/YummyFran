@@ -6,9 +6,10 @@ I am a passionate React developer with a keen eye for crafting beautiful and int
 
 ## Tech Stack
 
-- **Front-end:** React.js, HTML5, CSS3, JavaScript/ES6.
+- **Front-end:** React.js, HTML5, CSS3, JavaScript/ES6, Typescript.
+- **Back-end:** Node.js, Express.js
 - **State Management:** Redux, Tanstack/React Query.
-- **UI Libraries:** Material-UI, Chakra UI, Shad CN.
+- **UI Libraries:** Tailwindcss, Material-UI, Chakra UI, Shad CN.
 - **Tools:** Git, Webpack, Babel.
 
 ## Projects
