@@ -29,8 +29,8 @@ Feel free to explore my repositories for more React-powered projects!
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YummyFran&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YummyFran&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YummyFran&theme=dracula)|
 |-----|------|------|
 <div align="center">
-  <img src="http://github-readme-stats.vercel.app/api?username=YummyFran&show_icons=true&theme=dracula"  style="height: 15rem;"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YummyFran&theme=dracula&utcOffset=8" style="height: 15rem" />
+  <img src="http://github-readme-stats.vercel.app/api?username=YummyFran&show_icons=true&theme=dracula"  style="max-height: 15rem;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YummyFran&theme=dracula&utcOffset=8" style="max-height: 15rem" />
 </div>
 
 ## Get in Touch
