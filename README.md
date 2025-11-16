@@ -19,7 +19,8 @@ Here are my top React projects I've worked on:
 
 1. [AlgoSphere](https://yummyfran.github.io/algosphere/#) - A social media platform intended for developers. Offers a various amount of courses and technilogical entertainments.
 2. [iPlay](http://yummyfran.github.io/iPlay) - iPlay is my clone version of the mobile application "WePlay". It uses Firebase Authentication and Firestore for user data handling.
-3. [Portfolio](https://yummyfran.github.io/portfolio/) - My Personal Portfolio.
+3. [Shi](https://apps-dev-midterm-proj-nu.vercel.app) - A quick made simple e-commerce app.
+4. [Portfolio](https://yummyfran.github.io/portfolio/) - My Personal Portfolio.
    
 
 Feel free to explore my repositories for more React-powered projects!
